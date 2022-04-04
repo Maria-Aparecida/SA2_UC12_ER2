@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Positivo\\Desktop\\Cadastro_Pessoa\\Cadastro_Pessoa.csproj": {}
+    "C:\\Users\\Positivo\\Desktop\\SA2_UC12_ER\\Cadastro_Pessoa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Positivo\\Desktop\\Cadastro_Pessoa\\Cadastro_Pessoa.csproj": {
+    "C:\\Users\\Positivo\\Desktop\\SA2_UC12_ER\\Cadastro_Pessoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Positivo\\Desktop\\Cadastro_Pessoa\\Cadastro_Pessoa.csproj",
+        "projectUniqueName": "C:\\Users\\Positivo\\Desktop\\SA2_UC12_ER\\Cadastro_Pessoa.csproj",
         "projectName": "Cadastro_Pessoa",
-        "projectPath": "C:\\Users\\Positivo\\Desktop\\Cadastro_Pessoa\\Cadastro_Pessoa.csproj",
+        "projectPath": "C:\\Users\\Positivo\\Desktop\\SA2_UC12_ER\\Cadastro_Pessoa.csproj",
         "packagesPath": "C:\\Users\\Positivo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Positivo\\Desktop\\Cadastro_Pessoa\\obj\\",
+        "outputPath": "C:\\Users\\Positivo\\Desktop\\SA2_UC12_ER\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Positivo\\AppData\\Roaming\\NuGet\\NuGet.Config",
